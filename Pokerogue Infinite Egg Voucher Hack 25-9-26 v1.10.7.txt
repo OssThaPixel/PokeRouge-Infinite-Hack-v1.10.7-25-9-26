@@ -1,0 +1,52 @@
+PokeRogue Infinite Egg Voucher Hack:
+v1.10.7 25/9/26
+
+When in the main menu press "M" to open the game menu and go to "Egg Gatcha"
+
+In the gatcha page click “fn + f12” or “right-click + inspect”
+
+Make sure to have "Pause on uncaught exceptions" and "Pause on caught exceptions" turned on
+
+Go to "Sources" on the top bar
+
+Go to the "assets" dropdown on the left and click "battle-scene"
+
+Now click "ctrl+f" and type "vouchercounts"
+
+Go down to 14 of 15 beside the search bar
+
+Once there scroll down to processTransitionInput(e)
+
+Put a breakpoint at the "}" above processTransitionInput(e)
+
+Click back on the game and press any button
+
+Once the game pauses go back to the debug, and go to "Console" at the top
+
+Type in "allow paste" in the console search bar and hit "enter"
+
+Then paste in this code (change the "#" to the amount of vouchers you want):
+
+for (let i = 0; i <= 3; i++) {
+  this.prompt.scene.gameData.voucherCounts[i] = #;
+}
+
+And click enter
+
+Go back to the game and un-pause it with the blue arrow at the top
+
+Now close the debug menu and reload the page.
+
+If you did everything right when you check your egg vouchers you should have the amount you hacked in.
+
+Good Job!
+
+When you enter the code the console doesn't reply with the number you set, try:
+
+1. turning on "Pause on uncaught exceptions" and "Pause on caught exceptions"
+
+2. Turning on "allow paste" in the debug console
+
+3. Removing the "#" in the code
+
+If none of these work, maybe the hack has been patched out, check the version # in the starting menu.
