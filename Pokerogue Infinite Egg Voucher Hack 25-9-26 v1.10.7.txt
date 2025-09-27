@@ -5,7 +5,7 @@ When in the main menu press "M" to open the game menu and go to "Egg Gatcha"
 
 In the gatcha page click “fn + f12” or “right-click + inspect”
 
-Make sure to have "Pause on uncaught exceptions" and "Pause on caught exceptions" turned on
+Make sure to have "Pause on uncaught exceptions" and "Pause on caught exceptions" turned on in debug
 
 Go to "Sources" on the top bar
 
@@ -53,6 +53,7 @@ When you enter the code the console doesn't reply with the number you set, try:
 
 
 If none of these work, maybe the hack has been patched out, check the version # in the starting menu.
+
 
 
 
