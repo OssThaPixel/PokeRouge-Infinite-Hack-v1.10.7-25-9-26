@@ -23,7 +23,7 @@ Click back on the game and press "Z"
 
 Once the game pauses go back to the debug, and go to "Console" at the top
 
-Type in "allow pasteing" in the console search bar and hit "enter"
+Type in "allow pasteing" in the console and hit "enter"
 
 Then paste in this code (change the "#" to the amount of vouchers you want):
 
@@ -53,4 +53,5 @@ When you enter the code the console doesn't reply with the number you set, try:
 
 
 If none of these work, maybe the hack has been patched out, check the version # in the starting menu.
+
 
