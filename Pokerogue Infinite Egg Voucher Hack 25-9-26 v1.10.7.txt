@@ -19,7 +19,7 @@ Once there scroll down to processTransitionInput(e)
 
 Put a breakpoint at the "}" above processTransitionInput(e)
 
-Click back on the game and press any button
+Click back on the game and press "Z"
 
 Once the game pauses go back to the debug, and go to "Console" at the top
 
@@ -37,6 +37,8 @@ Go back to the game and un-pause it with the blue arrow at the top
 
 Now close the debug menu and reload the page.
 
+Do this fast otherwise the game will open vouchers without you
+
 If you did everything right when you check your egg vouchers you should have the amount you hacked in.
 
 Good Job!
@@ -48,5 +50,6 @@ When you enter the code the console doesn't reply with the number you set, try:
 2. Turning on "allow paste" in the debug console
 
 3. Removing the "#" in the code
+
 
 If none of these work, maybe the hack has been patched out, check the version # in the starting menu.
