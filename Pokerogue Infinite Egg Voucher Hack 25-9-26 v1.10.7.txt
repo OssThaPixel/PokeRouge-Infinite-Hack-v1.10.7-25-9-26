@@ -19,7 +19,7 @@ Once there scroll down to "processTransitionInput(e)"
 
 Put a breakpoint at the "}" above "processTransitionInput(e)" (click on the "-" icon beside the curly bracket)
 
-Click back on the game and press "Z"
+Click back on the game and use a use a voucher (if you dont have any thats fine it will still work)
 
 Once the game pauses go back to the debug, and go to "Console" at the top
 
@@ -53,6 +53,7 @@ When you enter the code the console doesn't reply with the number you set, try:
 
 
 If none of these work, maybe the hack has been patched out, check the version # in the starting menu.
+
 
 
 
